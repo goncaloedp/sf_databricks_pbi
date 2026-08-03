@@ -4,12 +4,4 @@ This project extracts data from Salesforce, transforms and normalizes it, stores
 
 ## Architecture
 
-Salesforce
-    ↓
-Bronze
-    ↓
-Silver
-    ↓
-Gold
-    ↓
-Power BI
+Salesforce -> Bronze -> Silver -> Gold -> Power BI
